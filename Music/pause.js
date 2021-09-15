@@ -30,7 +30,7 @@ module.exports = {
       queue.connection.dispatcher.pause(true);
       //define the pause embed
       const pausemebed = new MessageEmbed().setColor("#F0EAD6")
-      .setAuthor(`${message.author.username} paused the music.`, "https://media.giphy.com/media/kiho1zyvAmGiKBjIAs/giphy.gif")
+      .setAuthor(`${message.author.username} paused the music.`, "https://avatars.githubusercontent.com/u/76640873?s=200&v=4")
       //react with approve emoji
       message.react(approveemoji)
       //return message
