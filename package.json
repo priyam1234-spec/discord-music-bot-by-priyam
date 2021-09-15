@@ -1,0 +1,31 @@
+{
+  "name": "MBWF-v2",
+  "version": "1.0.0",
+  "description": "Music bot with filters-v2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Navaneeth K M",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.3",
+    "array.prototype.move": "0.0.4",
+    "cheerio": "^1.0.0-rc.3",
+    "discord-ytdl-core": "^4.1.3",
+    "discord.js": "^12.4.1",
+    "discord.js-commando": "^0.10.0",
+    "express": "^4.17.1",
+    "ffmpeg-static": "^4.2.7",
+    "figlet": "^1.5.0",
+    "lyrics-finder": "^21.4.0",
+    "node-fetch": "^2.6.1",
+    "node.js": "0.0.1-security",
+    "quick.db": "^7.1.3",
+    "simple-youtube-api": "^5.2.1",
+    "soundcloud-downloader": "^0.1.8",
+    "string-progressbar": "^1.0.1",
+    "youtube-sr": "^1.0.4",
+    "ytdl-core": "^4.0.0"
+  }
+}
