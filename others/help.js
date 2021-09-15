@@ -17,9 +17,9 @@ module.exports = {
  
     let helpEmbed = new MessageEmbed()
       .setTitle("Harmony Help")
-      .setAuthor('Click here to invite me!!', 'https://cdn.discordapp.com/attachments/778600026280558617/781024479623118878/ezgif.com-gif-maker_1.gif', 'https://discord.com/api/oauth2/authorize?client_id=767885987740254291&permissions=49572160&scope=bot')
+      .setAuthor('Click here to invite Proyom Music!', 'https://avatars.githubusercontent.com/u/76640873?s=200&v=4', 'https://discord.com/api/oauth2/authorize?client_id=877201493424488450&permissions=8&scope=bot%20applications.commands')
       .setDescription(`**PREFIX:** \`${PREFIX}\``)
-      .setFooter( client.user.username +`Type: ${PREFIX}help <Command>  for more information!`, "https://cdn.discordapp.com/attachments/778600026280558617/781024479623118878/ezgif.com-gif-maker_1.gif")
+      .setFooter( client.user.username +`Type: ${PREFIX}help <Command>  for more information!`, "https://avatars.githubusercontent.com/u/76640873?s=200&v=4")
       .setColor("#F0EAD6");
 
       let ifargstruedothis = -1;
