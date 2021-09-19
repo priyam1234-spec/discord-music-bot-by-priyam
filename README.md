@@ -62,12 +62,4 @@ It is important that you fill in every item of the JSON FILE! every emoji used i
 
 *If you are having errors/problems with starting delete the package.json file and do, before you install the packages `npm init`*
 
-## SUPPORT ME
 
-<div align="center">
-           
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" 
-                    align="center"
-                />
-            </a></div>
